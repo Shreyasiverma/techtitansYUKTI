@@ -9,8 +9,7 @@ The goal of this project is to promote early awareness and encourage users to co
 ---
 
 ## 🎯 Problem Statement
-Many people ignore early symptoms of diseases due to lack of awareness or immediate medical access. 
-There is a need for a simple and accessible system that can provide preliminary disease predictions based on common symptoms.
+There is a need for a simple system that can analyze symptoms and provide basic guidance before the condition becomes serious.
 
 ---
 
